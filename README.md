@@ -35,7 +35,7 @@ Para começar a resolver os exercícios, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/CarrijoUdi/lista-exercicios-python/tree/main
+    git clone https://github.com/CarrijoUdi/lista-exercicios-python/
     ```
 2.  **Navegue até a pasta desejada:**
     ```bash
